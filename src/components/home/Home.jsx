@@ -25,8 +25,7 @@ const Home = () => {
         <Link to="/lightdark">
           <button>Light Dark Theme App</button>
         </Link>
-        </div>  
-      
+        </div>       
   
     </div>
   )
