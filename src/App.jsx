@@ -31,23 +31,7 @@ function App() {
         <Route path="/searchbar" element={<SearchBar />} />
         <Route path="/lightdark" element={<ThemeToggle />} />
 
-        {/* Accordian component */}
-        {/* <Accordian /> */}
-
-        {/* Random Color Generator */}
-        {/* <RandomColor/> */}
-
-        {/* Star Rating Component */}
-        {/* <StarRating noOfStars={7}/> */}
-
-        {/* Image Slider Component */}
-        {/* <ImageSlider
-        url={"https://picsum.photos/v2/list"}
-        page={"1"}
-        limit={"8"}
-      /> */}
-        {/* Search Bar Component */}
-        {/* <SearchBar /> */}
+   
       </Routes>
     </Router>
   );
